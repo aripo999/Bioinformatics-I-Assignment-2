@@ -1,6 +1,8 @@
 # Exploring Autism Genes
 
-Mini research project exploring Autism Spectrum Disorder (ASD)
+Mini research project exploring Autism Spectrum Disorder (ASD).
+
+#### The main code is in the jupyter notebooks part1, part2_3. 
 
 ### Part 1 
 
