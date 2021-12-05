@@ -3,7 +3,5 @@ problem*
 gene2go.gz
 Homo_sapiens.gene_info.gz
 ivr.ipynb
-SFARI-Gene_*
 .DS_Store
-*.txt
-*.tsv
+
